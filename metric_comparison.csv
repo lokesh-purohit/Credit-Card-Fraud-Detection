@@ -1,0 +1,148 @@
+model,metrics,values
+Logistic Regression,fit_time,0.6131393909454346
+Logistic Regression,fit_time,0.5376887321472168
+Logistic Regression,fit_time,0.5991349220275879
+Random Forest,fit_time,22.220999479293823
+Random Forest,fit_time,22.71717882156372
+Random Forest,fit_time,23.575363397598267
+KNN,fit_time,0.01600050926208496
+KNN,fit_time,0.023005008697509766
+KNN,fit_time,0.01500391960144043
+CatBoost,fit_time,12.635096311569214
+CatBoost,fit_time,12.86887502670288
+CatBoost,fit_time,13.567874670028687
+Bagging,fit_time,11.916239261627197
+Bagging,fit_time,11.556494235992432
+Bagging,fit_time,12.212352991104126
+LDA,fit_time,0.12087750434875488
+LDA,fit_time,0.09402179718017578
+LDA,fit_time,0.0980222225189209
+XGB,fit_time,0.4504835605621338
+XGB,fit_time,0.23305320739746094
+XGB,fit_time,0.23305296897888184
+Logistic Regression,score_time,0.03200674057006836
+Logistic Regression,score_time,0.03000473976135254
+Logistic Regression,score_time,0.03400778770446777
+Random Forest,score_time,0.22805190086364746
+Random Forest,score_time,0.23505091667175293
+Random Forest,score_time,0.2700612545013428
+KNN,score_time,3.8848819732666016
+KNN,score_time,3.4807918071746826
+KNN,score_time,3.395772695541382
+CatBoost,score_time,0.04634451866149902
+CatBoost,score_time,0.048009395599365234
+CatBoost,score_time,0.04500937461853027
+Bagging,score_time,0.10502386093139648
+Bagging,score_time,0.10601019859313965
+Bagging,score_time,0.10602402687072754
+LDA,score_time,0.03400826454162598
+LDA,score_time,0.031006574630737305
+LDA,score_time,0.03200697898864746
+XGB,score_time,0.0580134391784668
+XGB,score_time,0.05601239204406738
+XGB,score_time,0.056012630462646484
+Logistic Regression,test_accuracy,0.9989045251537878
+Logistic Regression,test_accuracy,0.9989466588017191
+Logistic Regression,test_accuracy,0.9990730597455127
+Random Forest,test_accuracy,0.9994943962248252
+Random Forest,test_accuracy,0.9991573270413753
+Random Forest,test_accuracy,0.9995365298727564
+KNN,test_accuracy,0.9981039858430943
+KNN,test_accuracy,0.9983567877306817
+KNN,test_accuracy,0.9985674559703379
+CatBoost,test_accuracy,0.9995365298727564
+CatBoost,test_accuracy,0.9993258616331002
+CatBoost,test_accuracy,0.9996207971686188
+Bagging,test_accuracy,0.9993258616331002
+Bagging,test_accuracy,0.9990309260975815
+Bagging,test_accuracy,0.9994101289289626
+LDA,test_accuracy,0.9995365298727564
+LDA,test_accuracy,0.9990309260975815
+LDA,test_accuracy,0.9993679952810315
+XGB,test_accuracy,0.9994943962248252
+XGB,test_accuracy,0.999283727985169
+XGB,test_accuracy,0.9997050644644814
+Logistic Regression,test_precision,0.7777777777777778
+Logistic Regression,test_precision,0.6944444444444444
+Logistic Regression,test_precision,0.6857142857142857
+Random Forest,test_precision,0.9473684210526315
+Random Forest,test_precision,0.8064516129032258
+Random Forest,test_precision,0.9615384615384616
+KNN,test_precision,1.0
+KNN,test_precision,0.0
+KNN,test_precision,1.0
+CatBoost,test_precision,0.972972972972973
+CatBoost,test_precision,0.8484848484848485
+CatBoost,test_precision,0.9642857142857143
+Bagging,test_precision,0.8947368421052632
+Bagging,test_precision,0.7666666666666667
+Bagging,test_precision,0.8620689655172413
+LDA,test_precision,0.9069767441860465
+LDA,test_precision,0.7857142857142857
+LDA,test_precision,0.8571428571428571
+XGB,test_precision,0.9722222222222222
+XGB,test_precision,0.84375
+XGB,test_precision,1.0
+Logistic Regression,test_recall,0.6086956521739131
+Logistic Regression,test_recall,0.6410256410256411
+Logistic Regression,test_recall,0.6857142857142857
+Random Forest,test_recall,0.782608695652174
+Random Forest,test_recall,0.6410256410256411
+Random Forest,test_recall,0.7142857142857143
+KNN,test_recall,0.021739130434782608
+KNN,test_recall,0.0
+KNN,test_recall,0.02857142857142857
+CatBoost,test_recall,0.782608695652174
+CatBoost,test_recall,0.717948717948718
+CatBoost,test_recall,0.7714285714285715
+Bagging,test_recall,0.7391304347826086
+Bagging,test_recall,0.5897435897435898
+Bagging,test_recall,0.7142857142857143
+LDA,test_recall,0.8478260869565217
+LDA,test_recall,0.5641025641025641
+LDA,test_recall,0.6857142857142857
+XGB,test_recall,0.7608695652173914
+XGB,test_recall,0.6923076923076923
+XGB,test_recall,0.8
+Logistic Regression,test_f1,0.6829268292682927
+Logistic Regression,test_f1,0.6666666666666666
+Logistic Regression,test_f1,0.6857142857142857
+Random Forest,test_f1,0.8571428571428571
+Random Forest,test_f1,0.7142857142857143
+Random Forest,test_f1,0.819672131147541
+KNN,test_f1,0.0425531914893617
+KNN,test_f1,0.0
+KNN,test_f1,0.05555555555555555
+CatBoost,test_f1,0.8674698795180723
+CatBoost,test_f1,0.7777777777777778
+CatBoost,test_f1,0.8571428571428571
+Bagging,test_f1,0.8095238095238095
+Bagging,test_f1,0.6666666666666666
+Bagging,test_f1,0.78125
+LDA,test_f1,0.8764044943820225
+LDA,test_f1,0.6567164179104478
+LDA,test_f1,0.7619047619047619
+XGB,test_f1,0.8536585365853658
+XGB,test_f1,0.7605633802816901
+XGB,test_f1,0.8888888888888888
+Logistic Regression,test_roc_auc,0.9391473209697077
+Logistic Regression,test_roc_auc,0.9428744569069532
+Logistic Regression,test_roc_auc,0.8980656206108758
+Random Forest,test_roc_auc,0.9552396737294979
+Random Forest,test_roc_auc,0.9465672190930684
+Random Forest,test_roc_auc,0.9263030989854906
+KNN,test_roc_auc,0.5412559835836893
+KNN,test_roc_auc,0.5361144025841219
+KNN,test_roc_auc,0.5406183503824754
+CatBoost,test_roc_auc,0.9900206305155427
+CatBoost,test_roc_auc,0.9829792069083059
+CatBoost,test_roc_auc,0.9593075054402536
+Bagging,test_roc_auc,0.945449356122344
+Bagging,test_roc_auc,0.8841284269644684
+Bagging,test_roc_auc,0.9140717209285505
+LDA,test_roc_auc,0.9888330910532576
+LDA,test_roc_auc,0.990296557209408
+LDA,test_roc_auc,0.9702458813813722
+XGB,test_roc_auc,0.9903124678795354
+XGB,test_roc_auc,0.9735906633986398
+XGB,test_roc_auc,0.9495542307390908
